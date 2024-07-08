@@ -258,7 +258,7 @@ body {
 }
 .best-offer-container .img {
   width: 30%;
- margin: auto;
+  margin: auto;
 }
 .best-offer-container .img img {
   width: 100%;
@@ -353,39 +353,38 @@ body {
 .holyday {
   color: rgb(255, 0, 0);
 }
-
 /* <!-- ====+++++++======+++++Holy- Section Start here====+++====++++++ --> */
 
 /* holiday-color */
 .holyday-color {
-  width: 1320px;
-  height: 229px;
-  background-color: rgb(255, 0, 0);
-  position: absolute;
-  top: 77%;
-}
-.gift-box {
-  width: 674.82px;
-  height: 577.96px;
-  position: relative;
-  z-index: 1;
-  display: flex;
-  justify-content: space-between;
-}
-.gril-container {
-  width: 674.82px;
-  height: 577.96px;
-  position: relative;
-  left: 29%;
-  top: 12%;
-}
-.discount {
-  position: absolute;
-  bottom: 30%;
-  left: 55%;
-  z-index: 1;
-}
-/* <!-- ==-==-==-==-== Holiday-section==-==-==-==-==-==     --> */
+    width: 1320px;
+    height: 229px;
+    background-color: rgb(255, 0, 0);
+    position: absolute;
+    top: 77%;
+  }
+  .gift-box {
+    width: 674.82px;
+    height: 577.96px;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+  }
+  .gril-container {
+    width: 674.82px;
+    height: 577.96px;
+    position: relative;
+    left: 29%;
+    top: 12%;
+  }
+  .discount {
+    position: absolute;
+    bottom: 30%;
+    left: 55%;
+    z-index: 1;
+  }
+  /* <!-- ==-==-==-==-== Holiday-section==-==-==-==-==-==     --> */
 
 /* =-=-=-=-=portfolio-section=-=-=-=-=-=-=-=-=- */
 .portfolio-section {
